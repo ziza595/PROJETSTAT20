@@ -14,7 +14,4 @@ prison : prison française) ;
 
 Pour chaque partie évoqué plus sera associé un-ou-des fichier-s Python `.py` ou `.ipynb` afin de respecter les bonnes normes de codage.
 
-### QUESTION 1:
-1.  Simuler un échantillon de taille 10000 suivant une loi binomiale B(30, 0.2). Tracer l’histogramme de l’échantillon obtenu.
-2.  Simuler un échantillon de taille 10000 suivant une loi normale N (3, .4). Tracer la fonction de densité de l’échantillon obtenu. Choisir un intervalle contenant 0 pour domaine de représentation.
-3.  Simuler un échantillon de taille 10000 suivant une loi gamma $ \pi $(10, .5). Tracer la fonction de densité de l’échantillon obtenu. Choisir un intervalle contenant 0 pour domaine de représentation.
+<p align="center"><h1>...</h1></p>
